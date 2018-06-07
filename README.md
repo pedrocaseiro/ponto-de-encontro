@@ -1,24 +1,21 @@
-# README
+Ponto de Encontro
+================
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+What is it?
+-----------
 
-Things you may want to cover:
+This is the website for the Ponto de Encontro solidarity platform. Ponto de Encontro is a phone chat for people with visual impairement.
+The main goal of this project is to aid visually impaired people who live in isolation and have minimal to no contact at all with the world.
 
-* Ruby version
+As I wanted to learn more about accessibility I thought that I could contribute to this project by building this website, trying to follow
+accessibility good practices.
 
-* System dependencies
+Roadmap:
 
-* Configuration
+[] Static website with all the content about the project
 
-* Database creation
+[] Add some design
 
-* Database initialization
+[] Back office to edit the content (allows a blog section in the future?)
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[] Create some sort of content (videos?) that guide people on what Ponto de Encontro is, and how to take advantage of it
